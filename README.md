@@ -1,5 +1,14 @@
 # End-to-End-Books-Recommender-System
 
+## Workflow
+- config.yaml
+- entity
+- config/configuration.py
+- components
+- pipeline
+- main.py
+- app.py
+
 ### STEP 01- Create a conda environment after opening the repository
 
 conda create -n books python=3.7.10 -y
